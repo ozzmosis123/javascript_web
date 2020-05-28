@@ -1,3 +1,3 @@
 # javascript_web
 
-Test assigment. Not a finished product. 
+Test assignment. Not a finished product. Delete soon.  
